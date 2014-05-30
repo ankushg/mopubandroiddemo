@@ -1,0 +1,2 @@
+include ':app', ':mopub-sdk'
+project(':mopub-sdk').projectDir = new File('libraries/mopub-sdk')
